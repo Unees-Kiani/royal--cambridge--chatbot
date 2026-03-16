@@ -3,3 +3,4 @@ openai
 pandas
 pillow
 requests
+streamlit-lottie
